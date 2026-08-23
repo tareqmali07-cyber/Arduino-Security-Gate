@@ -64,7 +64,7 @@ An embedded security gate system built with **Arduino Uno**. The system features
 | ![2D Circuit](schematics/circuit_diagram.jpg) | ![Real Setup](schematics/circuit_real.jpeg) |
 
 * 📄 Download Bill of Materials: [components.csv](schematics/components.csv)
-* 🌐 Live Simulation: [Tinkercad Link](schematics/simulation_link.txt) 
+* 🌐 Live Simulation: [Tinkercad Link]([schematics/simulation_link.txt](https://www.tinkercad.com/things/9ikzgrcffHO-arduino-security-gate)) 
 
 ---
 
