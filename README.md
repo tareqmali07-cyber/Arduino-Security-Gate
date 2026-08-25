@@ -83,6 +83,7 @@ Arduino-Security-Gate/
     ├── demo.gif
     ├── demo.mp4
     └── simulation_link.txt
+```
 ---
 
 ## 🚀 How to Run & Setup
@@ -101,8 +102,8 @@ Arduino-Security-Gate/
 ---
 
 ## 💻 Source Code (`src/main.ino`)
-
-```cpp
+```
+cpp
 #include <Servo.h>
 #include <Wire.h> 
 #include <LiquidCrystal_I2C.h>
