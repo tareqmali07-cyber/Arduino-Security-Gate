@@ -103,7 +103,7 @@ Arduino-Security-Gate/
 
 ## 💻 Source Code (`src/main.ino`)
 
-cpp
+C++
 ```
 #include <Servo.h>
 #include <Wire.h> 
