@@ -102,8 +102,9 @@ Arduino-Security-Gate/
 ---
 
 ## 💻 Source Code (`src/main.ino`)
-```
+
 cpp
+```
 #include <Servo.h>
 #include <Wire.h> 
 #include <LiquidCrystal_I2C.h>
